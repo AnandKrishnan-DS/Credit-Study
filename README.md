@@ -1,4 +1,6 @@
- Credit-Study
+ Credit-Study:
+ 
+ The objectives are as follows, 
 
 1) Identify the missing data and use appropriate method to deal with it
 
